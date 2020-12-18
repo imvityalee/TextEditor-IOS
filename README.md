@@ -1,5 +1,5 @@
 # TextEditor-IOS
-Text Editor for txt files. Project for practising parsing from txt and etc. 
+Text Editor for txt files. Project for practising parsing from txt and etc. Future implementation are going to be Code Editor 
 
 
 <img src="Screenshots/textEditor1.png" width="250">
